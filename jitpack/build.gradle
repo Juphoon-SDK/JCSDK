@@ -7,7 +7,7 @@ android {
     defaultConfig {
         minSdkVersion 16
         targetSdkVersion 28
-        versionCode 202112282
+        versionCode 202112283
         versionName "2.9.1"
     }
 
@@ -23,7 +23,7 @@ android {
             jniLibs.srcDirs = ['../sdk']
         }
     }
-    ndkVersion '21.1.6113669'
+    ndkVersion '21.1.6352462'
 
     android.libraryVariants.all {
         it.generateBuildConfig.enabled = false
