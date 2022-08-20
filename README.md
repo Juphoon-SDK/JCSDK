@@ -1,3 +1,3 @@
 # JCSDK
 Juphoon Cloud SDK
-2.9.1
+2.11.2
